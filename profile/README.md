@@ -24,11 +24,3 @@ A collection of configuration files that define the actual colony sites, buildin
 - Forum thread: https://forum.kerbalspaceprogram.com/topic/227961-kerbal-colonies-v104-112x
 - GitHub Issues: Use the issue tracker to report bugs or suggest features.
 
-## Contributing
-
-We welcome contributions! Whether it's bug fixes, new config sets, or ideas! Feel free to open a Pull Request or Issue.
-
-## License
-
-KerbalColonies is licensed under the [GNU General Public License v3.0](https://github.com/KerbalColonies/KerbalColoniesCore/blob/master/LICENSE).
-
