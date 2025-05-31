@@ -13,10 +13,12 @@ The core plugin that provides all essential functionality for managing and inter
 A collection of configuration files that define the actual colony sites, buildings, and gameplay elements. These require the Core to function!
 
 ## Core
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKSP-CKAN%2FCKAN-meta%2Frefs%2Fheads%2Fmaster%2Fdownload_counts.json&query=KerbalColonies&label=Downloads)
 - [Kerbal Colonies Core on SpaceDock](https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core)
 - [Kerbal Colonies Core on GitHub](https://github.com/KerbalColonies/KerbalColoniesCore/releases/tag/v1.0.4)
 
 ## Configs
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKSP-CKAN%2FCKAN-meta%2Frefs%2Fheads%2Fmaster%2Fdownload_counts.json&query=KerbalColoniesExtraplanetaryLaunchpadsConfig&label=Downloads)
 - KerbalColonies-ExtraplanetaryLaunchpadsConfig
   - [KerbalColonies-ExtraplanetaryLaunchpadsConfig on SpaceDock](https://spacedock.info/mod/3899/KerbalColonies-ExtraplanetaryLaunchpadsConfig)
   - [KerbalColonies-ExtraplanetaryLaunchpadsConfig on GitHub](https://github.com/KerbalColonies/KerbalColonies-ExtraplanetaryLaunchpadsConfig/releases/tag/v1.0.1)
