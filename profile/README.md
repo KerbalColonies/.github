@@ -1,3 +1,4 @@
+![Image](https://i.imgur.com/twFy677.jpeg)
 ## Main
 
 KerbalColonies is an open-source project that adds colonies to Kerbal Space Program 1 (KSP1) using Kerbal Konstructs.
