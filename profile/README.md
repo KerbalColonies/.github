@@ -4,10 +4,11 @@ KerbalColonies is an open-source project that adds colonies to Kerbal Space Prog
 
 The project consists of two main components:
 
-1. Kerbal Colonies Core
+### 1. Kerbal Colonies Core
+
 The core plugin that provides all essential functionality for managing and interacting with colonies.
 
-2. Kerbal Colonies Configs
+### 2. Kerbal Colonies Configs
 A collection of configuration files that define the actual colony sites, buildings, and gameplay elements. These require the Core to function!
 
 ## Core
